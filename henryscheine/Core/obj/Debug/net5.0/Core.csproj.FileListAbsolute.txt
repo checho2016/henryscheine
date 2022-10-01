@@ -1,0 +1,12 @@
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/bin/Debug/net5.0/Core.deps.json
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/bin/Debug/net5.0/Core.dll
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/bin/Debug/net5.0/Core.pdb
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.dll
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/Debug/net5.0/Core.pdb

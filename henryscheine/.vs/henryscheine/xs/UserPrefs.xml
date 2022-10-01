@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{4E5EC2F2-BA73-44F9-8502-75E14885716B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntegrationTests/DocumentParsingTests.cs">
+    <Files>
+      <File FileName="Core/ParserService.cs" Line="22" Column="44" />
+      <File FileName="IntegrationTests/DocumentParsingTests.cs" Line="84" Column="15" />
+      <File FileName="ApiTests/DocumentParserControllerTests.cs" Line="59" Column="15" />
+      <File FileName="CoreTests/ParseServiceTests.cs" Line="30" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="henryscheine" expanded="True">
+            <Node name="Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="ApiTests" expanded="True" />
+            <Node name="Core" expanded="True" />
+            <Node name="CoreTests" expanded="True" />
+            <Node name="IntegrationTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DocumentParsingTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="henryscheine" expanded="True" selected="True">
+            <Node name="ApiTests" expanded="True">
+              <Node name="ApiTests" expanded="True">
+                <Node name="DocumentParserControllerTests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CoreTests" expanded="True">
+              <Node name="CoreTests" expanded="True">
+                <Node name="ParseServiceTests" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="IntegrationTests" expanded="True">
+              <Node name="IntegrationTests" expanded="True">
+                <Node name="DocumentParsingTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

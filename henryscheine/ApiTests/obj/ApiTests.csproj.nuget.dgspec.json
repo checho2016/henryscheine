@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/ApiTests/ApiTests.csproj": {}
+  },
+  "projects": {
+    "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/Api.csproj",
+        "packagesPath": "/Users/sergioflores/.nuget/packages/",
+        "outputPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sergioflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/Core.csproj": {
+                "projectPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/ApiTests/ApiTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/ApiTests/ApiTests.csproj",
+        "projectName": "ApiTests",
+        "projectPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/ApiTests/ApiTests.csproj",
+        "packagesPath": "/Users/sergioflores/.nuget/packages/",
+        "outputPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/ApiTests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sergioflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/Api.csproj": {
+                "projectPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Api/Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/Core.csproj",
+        "packagesPath": "/Users/sergioflores/.nuget/packages/",
+        "outputPath": "/Users/sergioflores/Documentos/Personal/Proyectos/HenryScheine/henryscheine/Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/sergioflores/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
